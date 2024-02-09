@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test go through whole webUI and check most used functionality</description>
+   <name>Happy path</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>015fcfd5-6ddb-40fe-8054-1f68c495a5c4</testCaseGuid>
+</TestCaseEntity>

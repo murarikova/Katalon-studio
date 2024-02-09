@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Proklikani obrazovek a vyhledani visit</description>
+   <name>Enrollment export</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>71a4fdf4-8f55-4302-bc6d-e5db191a8915</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select location_1</name>
+   <tag></tag>
+   <elementGuidId>a2c6ec67-11bd-4ffc-b1ce-3659c014e731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiListItemText-root</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='locationButton']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5f20e24-f117-44f7-9463-a40aca1f3c51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItemText-root</value>
+      <webElementGuid>204016d0-a698-4947-8b5c-c346a028eada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select location</value>
+      <webElementGuid>893f6ce5-f650-4c11-a55c-d5ad81e994aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locationButton&quot;)/div[@class=&quot;MuiListItemText-root&quot;]</value>
+      <webElementGuid>a876d237-98b7-47af-8862-c2671ed03473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='locationButton']/div</value>
+      <webElementGuid>a84f9ac8-1252-450c-97c7-c70ab7e153dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/ul/li/div/div</value>
+      <webElementGuid>d63b3dcb-de61-45ae-92c0-4a4ad5d4c7c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select location' or . = 'Select location')]</value>
+      <webElementGuid>38da065c-0fc9-4d0f-9cad-71b961e5ef64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

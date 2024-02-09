@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Planned vs. real location distance (meters)</name>
+   <tag></tag>
+   <elementGuidId>b59a0572-2275-4059-9d1e-1b218a89e8cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8943662f-62c3-4737-b868-c095edc85fe3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root</value>
+      <webElementGuid>c4e97a64-857d-468c-baf5-0ecd5aecd8af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Planned vs. real location distance (meters)</value>
+      <webElementGuid>543b69cd-7e1b-4773-ba61-a84e2cea0062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geolocationTracking&quot;)/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-2 MuiGrid-grid-lg-2&quot;]/aside[@class=&quot;jss303&quot;]/div[@class=&quot;jss305&quot;]/div[@class=&quot;jss307&quot;]/ul[@class=&quot;jss306&quot;]/li[@class=&quot;jss304&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth&quot;]/label[@class=&quot;MuiFormLabel-root&quot;]</value>
+      <webElementGuid>c44189cd-87c9-47be-a44b-be5b69e52a7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[3]/div/label</value>
+      <webElementGuid>9d671bf9-69ca-4563-866a-ab44d9d25ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::label[1]</value>
+      <webElementGuid>cd0117f0-5732-4fb8-9d19-38ebab61246e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Required'])[1]/following::label[2]</value>
+      <webElementGuid>4b291e99-111b-4bae-95b6-03b8e7e6fe97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto refresh (minutes)'])[1]/preceding::label[1]</value>
+      <webElementGuid>7612c3b0-5d41-44ca-8b39-cd3414d5cacd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::label[2]</value>
+      <webElementGuid>2862282a-8946-461d-83a4-3f012bd80066</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Planned vs. real location distance (meters)']/parent::*</value>
+      <webElementGuid>f6b95ad7-b078-4309-921e-677ff83d19fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/label</value>
+      <webElementGuid>0b51e6b3-d165-4ba6-985b-4c5609871c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Planned vs. real location distance (meters)' or . = 'Planned vs. real location distance (meters)')]</value>
+      <webElementGuid>90f1229b-5489-46e0-891b-8bc8e428add2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

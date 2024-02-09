@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checking of presence fields, labels and buttons</description>
+   <name>Geolocation tracking GUI</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0456ad8-db2b-4dfa-986a-a0c7dcdba7b9</testCaseGuid>
+</TestCaseEntity>

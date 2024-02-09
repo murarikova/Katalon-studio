@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Selected0</name>
+   <tag></tag>
+   <elementGuidId>79744a24-32f7-4ab9-bd84-6f9f92843057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiBadge-root.jss575</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='assignmentManagementTableContainer']/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d293801d-b4c2-488f-bcd0-483bc5de5de8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBadge-root jss575</value>
+      <webElementGuid>6e5893df-dbe7-4b88-9255-f237c0df1458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selected0</value>
+      <webElementGuid>72d2b3f4-a706-4cf0-a283-4cb46092a566</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;assignmentManagementTableContainer&quot;)/div[@class=&quot;MuiToolbar-root MuiToolbar-regular jss571 MuiToolbar-gutters&quot;]/div[@class=&quot;jss574&quot;]/span[@class=&quot;MuiBadge-root jss575&quot;]</value>
+      <webElementGuid>345af20e-1c8f-47ea-b983-307adece1f66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='assignmentManagementTableContainer']/div[2]/div/span</value>
+      <webElementGuid>aa6cd4a6-b00c-40ce-9b69-3c0c3f500f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm suggestions'])[1]/following::span[1]</value>
+      <webElementGuid>a4a338ca-94ff-44fe-a9f3-c05dc2281dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select users'])[1]/following::span[6]</value>
+      <webElementGuid>cae266f7-829a-4a9b-bd25-af64b16bfaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filtered'])[1]/preceding::span[3]</value>
+      <webElementGuid>8f461c7e-6c2b-4fa3-bc55-42479ce36663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/span</value>
+      <webElementGuid>8a2a8345-46d8-4058-97b1-a06b61e92a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Selected0' or . = 'Selected0')]</value>
+      <webElementGuid>077c6a8e-0bc9-4954-968e-fc03246632b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

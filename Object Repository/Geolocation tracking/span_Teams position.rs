@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Teams position</name>
+   <tag></tag>
+   <elementGuidId>28c48a3f-4611-4182-93c7-6c8e58217dc9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.MuiTypography-root.MuiFormControlLabel-label.MuiTypography-body1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='geolocationFilterSelector']/div/div/div/div/div/label/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d4b0efbb-d44e-477e-8e25-34277c724132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiFormControlLabel-label MuiTypography-body1</value>
+      <webElementGuid>c5797479-e4fa-40f1-acd4-e41d360ac643</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team's position</value>
+      <webElementGuid>e280efa2-fac8-48a1-a49e-8df51ae25cdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geolocationFilterSelector&quot;)/div[@class=&quot;MuiPaper-root MuiExpansionPanel-root MuiExpansionPanel-rounded MuiPaper-elevation1 MuiPaper-rounded&quot;]/div[@class=&quot;MuiButtonBase-root MuiExpansionPanelSummary-root jss308&quot;]/div[@class=&quot;MuiExpansionPanelSummary-content&quot;]/div[1]/div[@class=&quot;MuiFormGroup-root&quot;]/label[@class=&quot;MuiFormControlLabel-root&quot;]/span[@class=&quot;MuiTypography-root MuiFormControlLabel-label MuiTypography-body1&quot;]</value>
+      <webElementGuid>b7e05711-8c23-4190-a333-f7dee1a95638</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='geolocationFilterSelector']/div/div/div/div/div/label/span[2]</value>
+      <webElementGuid>45e914dd-963f-445e-b208-8f379d49e003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span[2]</value>
+      <webElementGuid>4d9616f4-0895-4431-9a26-2244f14825c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Team&quot; , &quot;'&quot; , &quot;s position&quot;) or . = concat(&quot;Team&quot; , &quot;'&quot; , &quot;s position&quot;))]</value>
+      <webElementGuid>950009b5-d7af-4785-90b8-6d094a22487f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

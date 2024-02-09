@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to MUCH and searching unnasigned visits on Visit overview</description>
+   <name>New Test Case Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9dee628-6266-4b74-9421-880deca10e15</testCaseGuid>
+</TestCaseEntity>

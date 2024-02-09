@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Auto refresh (minutes)</name>
+   <tag></tag>
+   <elementGuidId>9fd1bfdd-1abb-4730-a61b-e6629c6212f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[5]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f545d6a6-d38c-4638-b1b7-6fbae928fb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root</value>
+      <webElementGuid>5e58fd30-e668-4a03-a121-e47d98cd4a06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Auto refresh (minutes)</value>
+      <webElementGuid>360040c1-8bd6-49d8-a8f0-10f5b5915cf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geolocationTracking&quot;)/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-2 MuiGrid-grid-lg-2&quot;]/aside[@class=&quot;jss303&quot;]/div[@class=&quot;jss305&quot;]/div[@class=&quot;jss307&quot;]/ul[@class=&quot;jss306&quot;]/li[@class=&quot;jss304&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth&quot;]/label[@class=&quot;MuiFormLabel-root&quot;]</value>
+      <webElementGuid>5f622483-5d4d-4146-be31-af9aace1beec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[5]/div/label</value>
+      <webElementGuid>f8263c89-d71c-4b82-9c2f-a5b82c6213a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/div/label</value>
+      <webElementGuid>4edd459c-fdae-4510-9c22-772212c02c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Auto refresh (minutes)' or . = 'Auto refresh (minutes)')]</value>
+      <webElementGuid>040abd3a-8a38-4975-bdb2-dc322db5b9bf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

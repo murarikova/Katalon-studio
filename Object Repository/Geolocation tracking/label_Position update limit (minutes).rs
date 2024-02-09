@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Position update limit (minutes)</name>
+   <tag></tag>
+   <elementGuidId>b3844c85-2fb0-4d39-ac01-4b853e6bb3e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[4]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>65ce748b-d246-4ddc-a967-377175612402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root</value>
+      <webElementGuid>294b04c9-3fd5-411d-b7f9-303609842b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Position update limit (minutes)</value>
+      <webElementGuid>e8d2cdc5-36f3-45d5-a000-81019e767a5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;geolocationTracking&quot;)/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 MuiGrid-grid-lg-12&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-2 MuiGrid-grid-lg-2&quot;]/aside[@class=&quot;jss303&quot;]/div[@class=&quot;jss305&quot;]/div[@class=&quot;jss307&quot;]/ul[@class=&quot;jss306&quot;]/li[@class=&quot;jss304&quot;]/div[@class=&quot;MuiFormControl-root MuiFormControl-fullWidth&quot;]/label[@class=&quot;MuiFormLabel-root&quot;]</value>
+      <webElementGuid>b064ecf0-b3ac-4698-9513-eff6c623c994</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='geolocationTracking']/div/div[2]/div/div/aside/div/div[2]/ul/li[4]/div/label</value>
+      <webElementGuid>9c0c7771-e669-4206-9ab2-2eb6c9171af5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/label</value>
+      <webElementGuid>db40ade8-d9b7-49ce-ac0f-437d0f06ae02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Position update limit (minutes)' or . = 'Position update limit (minutes)')]</value>
+      <webElementGuid>e4251585-5262-43bc-b1ca-3c0f2c21c9b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
